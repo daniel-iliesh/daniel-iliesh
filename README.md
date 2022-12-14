@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Daniel Ilies
-- 👀 I’m interested in GameDevelopement
-- 🌱 I’m currently learning C#, Unity
-- 💞️ I’m looking to collaborate on My Projects
+- 👀 I’m interested in Web-dev and Game Developement
 - 📫 How to reach me : iliesh.daniel@gmail.com
 
 <!---
