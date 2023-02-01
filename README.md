@@ -11,7 +11,9 @@ I am always looking to expand my knowledge and skills in various areas of IT.
 ## Skills
 - Web development
   - HTML/CSS
+  - Bootstrap
   - JavaScript
+  - jQuery
   - React
   - MERN stack
 
