@@ -12,12 +12,6 @@ I am always looking to expand my knowledge and skills in various areas of IT.
 let skills = ["React", "Vue", "Bootstrap", "MERN Stack"]
 ```
 
-## Goals
-
-- To continue learning and growing as a software developer
-- To explore new technologies and programming languages
-- To develop real-world projects and build a portfolio
-
 ## Contact
 Feel free to reach out to me if you have any questions or want to connect.
 
