@@ -1,7 +1,7 @@
 # Hello everyone
 
 - 👋 Hi, I’m Daniel Ilies
-- 👀 I’m interested in Web-dev and Game Developement
+- 👀 I’m interested in Web-dev
 - 📫 How to reach me : iliesh.daniel@gmail.com
 
 ## Introduction
