@@ -1,0 +1,212 @@
+{
+  "basics": {
+    "name": "Daniel Ilies",
+    "label": "Software Engineer",
+    "image": "https://2.gravatar.com/avatar/d968116551f1fcd7a8498e06e731087f6847fa163eddd43f1428606fe999b284?size=256&d=initials",
+    "email": "iliesh.daniel@gmail.com",
+    "phone": "(+971) 54-753-6361",
+    "url": "https://danielilies.bio",
+    "summary": "A highly skilled and versatile Software Engineer with a Bachelor's degree in Informatics, proficient in full-stack development, AI/Machine Learning, and DevOps practices. Passionate about building robust, scalable applications from conception to deployment. Experienced in modern web technologies, CI/CD pipelines, and integrating AI into real-world products. Eager to leverage a diverse technical skill set and a strong problem-solving mindset to contribute to innovative projects in a collaborative environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Dubai",
+      "countryCode": "AE",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "daniel-iliesh",
+        "url": "https://github.com/daniel-iliesh"
+      },
+      {
+        "network": "Linkedin",
+        "username": "daniel-iliesh",
+        "url": "https://linkedin.com/in/daniel-iliesh"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bigfoot Startup",
+      "position": "Full-Stack Engineer",
+      "url": "https://rocket-champ.com/",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Collaborated as a core member of a small development team to build the AdsMedia full-stack retargeting platform using Nuxt.js, Vue.js, and TypeScript. Functioned as the primary front-end developer and a contributing back-end developer, responsible for architecting and developing key dashboard and form components for campaign management. Implemented responsive design principles and ensured cross-browser compatibility, delivering a seamless user experience across all devices. Worked closely with the back-end team on system design and API integration to ensure smooth data flow and application functionality.",
+      "highlights": [
+        "Collaborated as a core member of a small development team to build the AdsMedia full-stack retargeting platform using Nuxt.js, Vue.js, and TypeScript.",
+        "Functioned as the primary front-end developer and a contributing back-end developer, responsible for architecting and developing key dashboard and form components for campaign management.",
+        "Implemented responsive design principles and ensured cross-browser compatibility, delivering a seamless user experience across all devices.",
+        "Worked closely with the back-end team on system design and API integration to ensure smooth data flow and application functionality."
+      ]
+    },
+    {
+      "name": "DevelBox",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2025-05-01",
+      "summary": "Led the frontend refactoring of an exam management platform (examene.umfst.ro/login) using Vue.js and Vuetify, improving user experience and page load times by approximately 25%. Engineered and deployed an AI-powered browser extension (AdCognition) using TypeScript and TensorFlow.js for real-time ad detection and blocking. Developed RoboGPT, an Nvidia Isaac Sim extension for controlling robots via natural language commands using LLMs and OpenAI APIs. Actively engaged in code reviews and collaborated with UI/UX designers to translate complex mockups into functional web pages.",
+      "highlights": [
+        "Led the frontend refactoring of an exam management platform (examene.umfst.ro/login) using Vue.js and Vuetify, improving user experience and page load times by approximately 25%.",
+        "Engineered and deployed an AI-powered browser extension (AdCognition) using TypeScript and TensorFlow.js for real-time ad detection and blocking.",
+        "Developed RoboGPT, an Nvidia Isaac Sim extension for controlling robots via natural language commands using LLMs and OpenAI APIs.",
+        "Actively engaged in code reviews and collaborated with UI/UX designers to translate complex mockups into functional web pages."
+      ]
+    },
+    {
+      "name": "CGS Romania",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2022-03-01",
+      "endDate": "2023-07-01",
+      "summary": "Won 1st place in a company-wide Innovation contest by developing Otis, a JavaScript-based templating software that automated form-filling and email generation, significantly improving team efficiency. Honed communication, teamwork, and problem-solving skills while interacting with customers from diverse backgrounds.",
+      "highlights": [
+        "Won 1st place in a company-wide Innovation contest by developing Otis, a JavaScript-based templating software that automated form-filling and email generation, significantly improving team efficiency.",
+        "Honed communication, teamwork, and problem-solving skills while interacting with customers from diverse backgrounds."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University \"1 Decembrie 1918\" of Alba Iulia",
+      "url": "",
+      "area": "Informatics",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2019-10-01",
+      "endDate": "2022-07-01",
+      "score": "9/10",
+      "courses": [
+        "Thesis: \"Building a modern fullstack web application.\""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st place in company-wide Innovation contest",
+      "date": "",
+      "awarder": "CGS Romania",
+      "summary": "Developed Otis, a JavaScript-based templating software that automated form-filling and email generation."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Core Technologies",
+      "level": "",
+      "keywords": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Python",
+        "HTML5",
+        "CSS3",
+        "React.js",
+        "Vue.js (Vue 2 & 3)",
+        "Node.js",
+        "Express.js",
+        "MERN Stack"
+      ]
+    },
+    {
+      "name": "AI/ML & Data",
+      "level": "",
+      "keywords": [
+        "TensorFlow",
+        "TensorFlow.js",
+        "Machine Learning",
+        "Deep Learning",
+        "OpenAI API",
+        "LLMs",
+        "Jupyter Notebook",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Jenkins",
+        "Docker Compose",
+        "Linux",
+        "Nginx",
+        "Networking Configurations",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "UI/UX & Design",
+      "level": "",
+      "keywords": [
+        "Responsive Design",
+        "Accessibility (WCAG)",
+        "Component-Based Architecture",
+        "Tailwind CSS",
+        "Vuetify",
+        "Bootstrap",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Development Practices",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Code Reviews",
+        "Debugging",
+        "Clean Code",
+        "Agile/Scrum",
+        "Performance Optimization",
+        "RESTful APIs",
+        "OOP",
+        "SOLID Principles"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced - C1"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Otis – Customer Support Automation Tool",
+      "startDate": "",
+      "endDate": "",
+      "description": "An internal tool that won a company innovation award, using JavaScript, jQuery, and RegEx to automate form-filling and email generation for customer support.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "IT-Hub - MERN stack Social media Web Application",
+      "startDate": "",
+      "endDate": "",
+      "description": "(Bachelor's Final Project) A full-stack social media application built with the MERN stack + Redux, demonstrating an understanding of end-to-end web development.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "defender-bot",
+      "startDate": "",
+      "endDate": "",
+      "description": "A Python-controlled LEGO Mindstorms Micropython robot from university, demonstrating experience with robotics, sensors, and OOP principles.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}
