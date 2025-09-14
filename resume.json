@@ -82,74 +82,43 @@
   ],
   "skills": [
     {
-      "name": "Core Technologies",
+      "name": "Frontend Development",
       "level": "Advanced",
       "keywords": [
         "JavaScript (ES6+)",
         "TypeScript",
-        "Python",
+        "Vue.js",
+        "React.js",
         "HTML5",
         "CSS3",
-        "React.js",
-        "Vue.js (Vue 2 & 3)",
-        "Node.js",
-        "Express.js",
-        "MERN Stack"
-      ]
-    },
-    {
-      "name": "AI/ML & Data",
-      "level": "Intermediate",
-      "keywords": [
-        "TensorFlow",
-        "TensorFlow.js",
-        "Machine Learning",
-        "Deep Learning",
-        "OpenAI API",
-        "LLMs",
-        "Jupyter Notebook",
-        "MongoDB"
-      ]
-    },
-    {
-      "name": "DevOps & Infrastructure",
-      "level": "Intermediate",
-      "keywords": [
-        "Docker",
-        "Jenkins",
-        "Docker Compose",
-        "Linux",
-        "Nginx",
-        "Networking Configurations",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "UI/UX & Design",
-      "level": "Advanced",
-      "keywords": [
         "Responsive Design",
-        "Accessibility (WCAG)",
-        "Component-Based Architecture",
         "Tailwind CSS",
-        "Vuetify",
-        "Bootstrap",
-        "Figma"
+        "Vuetify"
       ]
     },
     {
-      "name": "Development Practices",
-      "level": "Advanced",
+      "name": "Backend & AI/ML",
+      "level": "Intermediate",
+      "keywords": [
+        "Node.js",
+        "Python",
+        "Express.js",
+        "MongoDB",
+        "TensorFlow.js",
+        "OpenAI API",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Tools & Practices",
+      "level": "Intermediate",
       "keywords": [
         "Git",
+        "Docker",
+        "Linux",
+        "CI/CD",
         "Code Reviews",
-        "Debugging",
-        "Clean Code",
-        "Agile/Scrum",
-        "Performance Optimization",
-        "RESTful APIs",
-        "OOP",
-        "SOLID Principles"
+        "Agile/Scrum"
       ]
     }
   ],
