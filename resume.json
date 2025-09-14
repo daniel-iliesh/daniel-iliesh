@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "basics": {
     "name": "Daniel Ilies",
     "label": "Software Engineer",
@@ -89,7 +89,8 @@
         "TypeScript",
         "Vue.js",
         "React.js",
-        "HTML5/CSS3",
+        "HTML5",
+        "CSS3",
         "Tailwind CSS",
         "Vuetify"
       ]
@@ -107,14 +108,13 @@
       ]
     },
     {
-      "name": "Tools & Practices",
+      "name": "Development Tools",
       "level": "Intermediate",
       "keywords": [
         "Git",
         "Docker",
         "Linux",
-        "CI/CD",
-        "Agile/Scrum"
+        "CI/CD"
       ]
     }
   ],
