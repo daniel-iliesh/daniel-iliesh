@@ -89,9 +89,7 @@
         "TypeScript",
         "Vue.js",
         "React.js",
-        "HTML5",
-        "CSS3",
-        "Responsive Design",
+        "HTML5/CSS3",
         "Tailwind CSS",
         "Vuetify"
       ]
@@ -105,8 +103,7 @@
         "Express.js",
         "MongoDB",
         "TensorFlow.js",
-        "OpenAI API",
-        "RESTful APIs"
+        "OpenAI API"
       ]
     },
     {
@@ -117,7 +114,6 @@
         "Docker",
         "Linux",
         "CI/CD",
-        "Code Reviews",
         "Agile/Scrum"
       ]
     }
